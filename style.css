@@ -1,0 +1,13 @@
+td, th {
+    width: 30px;
+    height: 21px;
+    border: 1px solid green;
+}
+table {
+    border-spacing: 0;
+    overflow: inherit;
+    margin: 0px auto 0 auto;
+}
+h1{
+    text-align: center;
+}
